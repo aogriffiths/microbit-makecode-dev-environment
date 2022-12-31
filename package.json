@@ -1,0 +1,11 @@
+{
+  "name": "microbit_makecode_dev_environment",
+  "version": "0.0.1",
+  "description": "A local instance of Microbit Makecode for developing extensions ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Griffiths",
+  "license": "MIT"
+}
