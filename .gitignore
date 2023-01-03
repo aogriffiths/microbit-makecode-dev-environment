@@ -9,6 +9,7 @@ _site
 *.tgz
 .header.json
 .simstate.json
+projects/*
 
 #MacOS General
 .DS_Store

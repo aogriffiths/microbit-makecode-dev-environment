@@ -4,11 +4,15 @@
   "description": "A local instance of Microbit Makecode for developing extensions ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "pxt build",
+    "deploy": "pxt deploy",
+    "serve": "pxt serve",
+    "test": "pxt test"
   },
   "author": "Adam Griffiths",
   "license": "MIT",
   "dependencies": {
-    "pxt": "^0.5.1"
+    "pxt": "^0.5.1",
+    "pxt-microbit": "^4.0.24"
   }
 }
