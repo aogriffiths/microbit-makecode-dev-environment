@@ -1,5 +1,5 @@
 {
-  "name": "microbit_makecode_dev_environment",
+  "name": "microbit-makecode-dev-environment",
   "version": "0.0.1",
   "description": "A local instance of Microbit Makecode for developing extensions ",
   "main": "index.js",
